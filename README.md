@@ -13,7 +13,7 @@
 </p>
 <hr>
 <p align="center">
-    Hello, My name is Chan Kang!</br>
+    Hello, My name is Chance! (Chan Kang)</br>
     In 2015, I started developing by learning the C language.</br>
     </br>
     Now, I am working as a server operator and preparing to move to a developer.<br>
