@@ -26,11 +26,16 @@
     I'm always trying to learn new things because I don't have a long experience in development!
 </p>
 <hr>
+</br>
 
 <h3 align="center">📚 기술 스택 / Tech Stack 📚</h3>
+<hr>
+<h4 align="center">언어 / Language</h4>
 <p align="center">
-    
+    <img src="https://img.shields.io/badge/Go-00aed8?style=flat&logo=Go&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Go-00aed8?style=flat&logo=Go&logoColor=white"/>
 </p>
+<hr>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahs0432&langs_count=8)
 <br>
