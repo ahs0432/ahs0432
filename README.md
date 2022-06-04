@@ -2,7 +2,7 @@
 
 <h3 align="center">😎 자기소개 / Introduce 😎</h3>
 <hr>
-<h4 align="center">KOR<h4>
+<h4 align="center">KOR</h4>
 <p align="center">
     안녕하세요. 저는 찬스라고 합니다!</br>
     저는 2015년에 C언어를 배우면서 개발에 뛰어들게 됐습니다.</br>
@@ -14,7 +14,7 @@
     개발을 지속한 경력이 길지 않아 항상 새로운 것을 배우는 입장으로 임하려고 합니다!
 </p>
 
-<h4 align="center">ENG<h4>
+<h4 align="center">ENG</h4>
 <p align="center">
     Hello, My name is Chance! (Chan Kang)</br>
     In 2015, I started developing by learning the C language.</br>
