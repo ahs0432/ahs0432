@@ -32,11 +32,12 @@
 <hr>
 <h4 align="center">언어 / Language</h4>
 <p align="center">
-    <img src="https://img.shields.io/badge/Go-00aed8?style=flat&logo=Go&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Go-00aed8?style=flat&logo=Go&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Go-00aed8?style=flat-square&logo=Go&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-e97f00?style=flat-square&logo=Java&logoColor=047597"/>
 </p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahs0432&langs_count=8)
 <hr>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahs0432&langs_count=8)
+
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahs0432&hide=contribs,prs&theme=vision-friendly-dark)
