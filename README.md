@@ -68,7 +68,7 @@
 </div>
 </br>
 
-## 정보 / Information
+## 🔒 정보 / Information 🔒
 <div align="center">
     <a href="https://github.com/ahs0432"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
     <a href="https://blog.naver.com/chance0432"><img src="https://img.shields.io/badge/NAVER-1EC800?style=flat-square"/></a>
