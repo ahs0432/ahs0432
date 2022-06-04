@@ -69,5 +69,11 @@
 </br>
 
 ## 정보 / Information
+<div align="center">
+    <a href="https://github.com/ahs0432"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+    <a href="https://blog.naver.com/chance0432"><img src="https://img.shields.io/badge/NAVER-1EC800?style=flat-square"/></a>
+    <a href="mailto:ahs0432@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+</br>
+</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahs0432&hide=contribs,prs&theme=vision-friendly-dark)
