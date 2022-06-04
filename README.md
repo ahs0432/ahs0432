@@ -13,7 +13,7 @@
     솔루션, 서버 시스템, iOS 등에 대해서 관심있어 이 분야를 위주로 공부를 진행 중입니다.</br>
     개발을 지속한 경력이 길지 않아 항상 새로운 것을 배우는 입장으로 임하려고 합니다!
 </p>
-
+</br>
 <h4 align="center">ENG</h4>
 <p align="center">
     Hello, My name is Chance! (Chan Kang)</br>
