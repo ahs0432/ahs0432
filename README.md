@@ -48,7 +48,7 @@
     <img src ="https://img.shields.io/badge/PowerShell-012252?style=flat-square&logo=PowerShell&logoColor=white"/>
 </div>
 
-<h4 align="center">운영체제 / Operate System</h4>
+<h4 align="center">운영체제 / Operating System</h4>
 <div align="center">
     <img src="https://img.shields.io/badge/Windows%20Server-0081DA?style=flat-square&logo=Windows&logoColor=white"/>
     <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/>
