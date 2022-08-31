@@ -62,8 +62,6 @@
     <img src="https://img.shields.io/badge/SQL%20Server-D34414?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white"/>
 </br>
 </br>
-    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahs0432&langs_count=8&&hide=javascript,html,scss)
 
 </div>
 </br>
@@ -83,4 +81,4 @@
 ## ✨ 통계 / Stats ✨
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ahs0432&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahs0432&hide=contribs,prs&theme=vision-friendly-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahs0432&theme=vision-friendly-dark)
