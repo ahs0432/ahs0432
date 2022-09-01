@@ -38,8 +38,8 @@ I'm always trying to learn new things because I don't have a long experience in 
 
 #### 운영체제 / Operating System
 ![Windows](https://img.shields.io/badge/Windows%20Server-0081DA?style=flat-square&logo=Windows&logoColor=white)
-![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white")
-![Ubuntu](https://img.shields.io/badge/Ubuntu-D34414?style=flat-square&logo=Ubuntu&logoColor=white")
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-D34414?style=flat-square&logo=Ubuntu&logoColor=white)
 
 #### 데이터베이스 / DBMS
 ![MySQL](https://img.shields.io/badge/MySQL-417399?style=flat-square&logo=MySQL&logoColor=white)
