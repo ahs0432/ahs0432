@@ -1,6 +1,7 @@
+# 👋 HELLO 👋
 ## 😎 자기소개 / Introduce 😎
 
-#### KOR
+### 한국어 / KOREAN
 안녕하세요. 저는 찬스라고 합니다!  
 저는 2015년에 C언어를 배우면서 개발에 뛰어들게 됐습니다.  
 
@@ -10,7 +11,7 @@
 솔루션, 서버 시스템, iOS 등에 대해서 관심있어 이 분야를 위주로 공부를 진행 중입니다.  
 개발을 지속한 경력이 길지 않아 항상 새로운 것을 배우는 입장으로 임하려고 합니다!
 
-#### ENG
+### 영어 / ENGLISH
 Hello, My name is Chance! (Chan Kang)  
 In 2015, I started developing by learning the C language.  
     
