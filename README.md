@@ -1,7 +1,3 @@
-<div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=300&text=Hello&fontAlignX=50&fontAlignY=45&color=gradient&fontSize=100&fontColor=ffffff&desc=It's%20Chance%20GitHub)
-
 ## 😎 자기소개 / Introduce 😎
 
 #### KOR
@@ -46,13 +42,12 @@ I'm always trying to learn new things because I don't have a long experience in 
 ![MariaDB](https://img.shields.io/badge/MariaDB-002D40?style=flat-square&logo=MariaDB&logoColor=white)
 ![SQLServer](https://img.shields.io/badge/SQL%20Server-D34414?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white)
 
-## 🔒 정보 / Information 🔒
+## 🔒 연락처 / Contacts 🔒
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fahs0432&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/ahs0432)
 [![NAVER](https://img.shields.io/badge/NAVER-1EC800?style=flat-square)](https://blog.naver.com/chance0432)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:ahs0432@gmail.com)
 
 ## ✨ 통계 / Stats ✨
-[![Chance's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahs0432&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![Chance's Stats](https://github-readme-stats.vercel.app/api?username=ahs0432&theme=vision-friendly-dark)
+![Chance's Stats](https://github-readme-stats.vercel.app/api?username=ahs0432&theme=radical)
+![Chance's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ahs0432&layout=compact&theme=radical&hide=html,css,svelte)
