@@ -16,7 +16,7 @@ In 2015, I started developing by learning the C language.
     
 Currently, I'm work as a Cloud service Architect. and preparing for my next path.
 
-I'm interested in solution, server system, and artificial intelligence. also interested in study.
+I'm interested in solution, server system, and artificial intelligence. also interested in study.  
 I'm always trying to learn new things. because, in actual work, development is low.
     
 ## 📚 기술 스택 / Tech Stack 📚
