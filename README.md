@@ -1,4 +1,4 @@
-# 👋 HELLO 👋
+# 👋 Hi, there 👋
 ## 😎 자기소개 / Introduce 😎
 
 ### 한국어 / KOREAN
